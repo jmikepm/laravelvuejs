@@ -18,7 +18,7 @@
         <hr>
         <h1>LARAVEL y VUE - Introducción, uso de AJAX</h1>
         <h6>Crear Proyecto en Laravel (<span class="font-family:monospace;">composer create-project laravel/laravel nombre_proyecto</span>)</h6>
-        
+        <p>Para las directivas que se diferencien de laravel y vuejs dentro de las directivas de VUEJs se antepone un @ antes de la directiva, ej. @<span>@{{ item.name }}</span></p>
         
         <div id="main">
             <div class="row">
